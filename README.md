@@ -13,21 +13,21 @@ This Case Study was completed as part of the Google Data Analytics Professional 
 2.) Prepare Phase
 
 	- The data was downloaded directly from the Divvy Bikes website: https://www.divvybikes.com/system-data
-	- went through all twelve month data for 2021 and made correction by checking the consistency of columns
+	- Went through all twelve month data for 2021 and made correction by checking the consistency of columns
 
 3.) Process Phase
 
-	- I added columns, formatted columns for analyzing, and filling empty cells with NA
+	- Added columns, formatted columns for analyzing, and filling empty cells with NA
 
 4.) Analyse Phase
 
-	- I analyzed users average & maximum ride length for member & casual riders, I used Tableau to further my analysis for all types of bikes
+	- Analyzed users average & maximum ride length for member & casual riders, used Tableau to further my analysis for all types of bikes
 	- used R to combine all twelve month data spreadsheets into a single data frame and exported the data
 
 5.) Share Phase
 
-	- Visualisations were created using Tableau & excel Pivot Charts as part of my analysis
-	- I created a presentation in which a link to my tableau public dashboard
+	- Visualisations were created using tableau & excel pivot charts as part of my analysis
+	- Created a presentation in which a link to my tableau public dashboard
 
 6.) Act Phase
 
